@@ -1,4 +1,7 @@
---- English
+
+### English
+
+---
 
 # Elanore
 
@@ -37,7 +40,9 @@
 - The client sends requests to the Flask server, which communicates with the Ollama Llama API.
 - Real-time results are displayed on the frontend.
 
---- Turkish
+### Türkçe
+
+---
 
 # Elanore
 
