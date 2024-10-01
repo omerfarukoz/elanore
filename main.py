@@ -204,8 +204,6 @@ def api_getchat(session_key):
 @app.route('/api/login', methods = ['POST'])
 def api_login():
 
-    if "uuid" not in session:
-        return redirect(url_for("login"))
     data = request.form
 
     if data["password"] == "" or data["email"] == "":
@@ -234,8 +232,7 @@ def api_login():
 
 @app.route('/api/register', methods = ['POST'])
 def api_register():
-    if "uuid" not in session:
-        return redirect(url_for("login"))
+
     data = request.form
 
     if data["firstname"] == "" :
@@ -447,6 +444,8 @@ def debug_createchattable():
     cursor.close()
 
 
+#debug_createusertable()
+#debug_createchattable()
 #createchattable()
 #droptable()
 #createchattable()
