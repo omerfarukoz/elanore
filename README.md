@@ -1,9 +1,16 @@
 
+# Elanore
+
+
+<img src="https://github.com/omerfarukoz/elanore/raw/main/images/examplechat.png" alt="example_page" width="100%"/>*(Example Chat - Conversation Page Screenshot)*
+
+
+<img src="https://github.com/omerfarukoz/elanore/raw/main/images/loginpage.png" alt="login_page" width="50%"/><img src="https://github.com/omerfarukoz/elanore/raw/main/images/registerpage.png" alt="register_page" width="50%"/>
+*(Login and Register Pages Screenshots)*
+
 ### English
 
 ---
-
-# Elanore
 
 ### Web Client for Ollama - Llama LLM
 
@@ -43,8 +50,6 @@
 ### Türkçe
 
 ---
-
-# Elanore
 
 ### Ollama - Llama LLM için Web İstemcisi
 
